@@ -1,29 +1,20 @@
-<h1 align="center">📊 Design and Analysis of Algorithms (DAA)</h1>
+<h1 align="center">📘 Design and Analysis of Algorithms (DAA)</h1>
 <p align="center">
-  Solving classic and modern algorithm problems, one step at a time.
+  A collection of algorithmic solutions implemented in pure C.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue.svg" />
+  <img src="https://img.shields.io/badge/Language-C-blue.svg" />
   <img src="https://img.shields.io/badge/Status-Active-brightgreen.svg" />
   <img src="https://img.shields.io/github/last-commit/your-username/daa-solutions" />
 </p>
 
 ---
 
-## 📌 About the Repository
+## 📌 Overview
 
-This repository contains my curated solutions to problems from the **Design and Analysis of Algorithms** curriculum. These problems cover a wide range of algorithmic techniques and concepts, including:
+This repository is a comprehensive collection of solutions to problems from the **Design and Analysis of Algorithms** curriculum, written entirely in **C**. Each algorithm is implemented with simplicity, performance, and clarity in mind.
 
-- Divide and Conquer
-- Greedy Algorithms
-- Dynamic Programming
-- Backtracking
-- Branch and Bound
-- Graph Algorithms
-- NP-Completeness
-
-Each problem is implemented with a focus on **efficiency**, **clarity**, and **scalability**.
+Whether you're a student preparing for exams or brushing up your algorithmic thinking, this repo is for you!
 
 ---
-

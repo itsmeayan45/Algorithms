@@ -12,7 +12,7 @@ int binarySearch(int arr[], int low, int high, int x)
     }
     return -1;
 }
-int main()
+int main(void)
 {
     int x,n;
     printf("Enter the size of the array :\n");

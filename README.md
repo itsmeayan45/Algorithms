@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/Y5bBNfZ.png" alt="Omnitrix" width="140"/>
+  <img src="https://www.pngkey.com/png/detail/577-5776006_t1-omnitrix-ben-10-omnitrix-png.png" alt="Omnitrix" width="140"/>
 </p>
 
 <p align="center">

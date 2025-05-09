@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://static.wikia.nocookie.net/ben10/images/2/2d/Omnitrix_-_Reboot.png" alt="Omnitrix" width="140"/>
+  <img src="https://i.imgur.com/Y5bBNfZ.png" alt="Omnitrix" width="140"/>
 </p>
 
 <p align="center">

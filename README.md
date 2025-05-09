@@ -1,20 +1,35 @@
-<h1 align="center">📘 Design and Analysis of Algorithms (DAA)</h1>
+<h1 align="center" style="color: #00ff00;">
+  💚🖤 Ben 10's DAA Codex 🖤💚
+</h1>
+
 <p align="center">
-  A collection of algorithmic solutions implemented in pure C.
+  <img src="https://static.wikia.nocookie.net/ben10/images/2/2d/Omnitrix_-_Reboot.png" alt="Omnitrix" width="120"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-C-blue.svg" />
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen.svg" />
-  <img src="https://img.shields.io/github/last-commit/your-username/daa-solutions" />
+  <b>Transforming Algorithm Problems — The Ben 10 Way!</b><br/>
+  <i>From Grey Matter's logic to XLR8's speed — unlock every technique!</i>
 </p>
 
 ---
 
-## 📌 Overview
+## 💥 What's This Repo?
 
-This repository is a comprehensive collection of solutions to problems from the **Design and Analysis of Algorithms** curriculum, written entirely in **C**. Each algorithm is implemented with simplicity, performance, and clarity in mind.
+Welcome to **DAA-AlienForce** — a personal repository of solved problems from **Design and Analysis of Algorithms**, coded with logic sharper than *Diamondhead's blades* and optimized for speed like *XLR8*. 🧠⚡
 
-Whether you're a student preparing for exams or brushing up your algorithmic thinking, this repo is for you!
+Each folder in this repo is themed like one of Ben's aliens, representing a unique algorithmic strategy!
+
+---
+
+## 🧬 Alien Force Breakdown
+
+| 👽 Alien | 💡 Algorithm Type       | 🌌 Description |
+|---------|------------------------|----------------|
+| 🧠 Grey Matter | Greedy Algorithms     | Tiny genius tricks that make the best local decisions. |
+| ⚡ XLR8       | Divide & Conquer     | Break problems at light speed — merge solutions. |
+| 🕸️ Stinkfly  | Dynamic Programming | Glide through subproblems with memory and efficiency. |
+| 💎 Diamondhead | Backtracking         | Precision and persistence in branching solutions. |
+| 🔥 Heatblast | Graph Algorithms     | Burn through paths with BFS, DFS, Dijkstra, etc. |
+| 🤖 Upgrade   | Advanced DAA         | Transforming simple logic into elite techniques. |
 
 ---

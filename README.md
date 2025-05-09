@@ -1,9 +1,9 @@
-<h1 align="center" style="color: #00ff00;">
+<h1 align="center">
   💚🖤 Ben 10's DAA Codex 🖤💚
 </h1>
 
 <p align="center">
-  <img src="https://static.wikia.nocookie.net/ben10/images/2/2d/Omnitrix_-_Reboot.png" alt="Omnitrix" width="120"/>
+  <img src="https://static.wikia.nocookie.net/ben10/images/2/2d/Omnitrix_-_Reboot.png" alt="Omnitrix" width="140"/>
 </p>
 
 <p align="center">
@@ -13,11 +13,11 @@
 
 ---
 
-## 💥 What's This Repo?
+## 🛸 What's This Repo?
 
-Welcome to **DAA-AlienForce** — a personal repository of solved problems from **Design and Analysis of Algorithms**, coded with logic sharper than *Diamondhead's blades* and optimized for speed like *XLR8*. 🧠⚡
+Welcome to **DAA-AlienForce** — a powerful repository of solved problems from **Design and Analysis of Algorithms**, coded with alien-level strategies.
 
-Each folder in this repo is themed like one of Ben's aliens, representing a unique algorithmic strategy!
+Here, algorithms aren't just learned — they're **transformed**, just like Ben with his Omnitrix. Whether it's a greedy approach or dynamic programming, every section here is themed after one of Ben's iconic aliens.
 
 ---
 
@@ -25,11 +25,11 @@ Each folder in this repo is themed like one of Ben's aliens, representing a uniq
 
 | 👽 Alien | 💡 Algorithm Type       | 🌌 Description |
 |---------|------------------------|----------------|
-| 🧠 Grey Matter | Greedy Algorithms     | Tiny genius tricks that make the best local decisions. |
-| ⚡ XLR8       | Divide & Conquer     | Break problems at light speed — merge solutions. |
-| 🕸️ Stinkfly  | Dynamic Programming | Glide through subproblems with memory and efficiency. |
-| 💎 Diamondhead | Backtracking         | Precision and persistence in branching solutions. |
-| 🔥 Heatblast | Graph Algorithms     | Burn through paths with BFS, DFS, Dijkstra, etc. |
-| 🤖 Upgrade   | Advanced DAA         | Transforming simple logic into elite techniques. |
+| 🧠 Grey Matter | Greedy Algorithms     | Small size, big brain — chooses the best locally. |
+| ⚡ XLR8       | Divide & Conquer     | Fast recursive breaks, faster merges. |
+| 🕸️ Stinkfly  | Dynamic Programming | Efficient, airborne over repeated subproblems. |
+| 💎 Diamondhead | Backtracking         | Shard-sharp solutions for constraint-heavy problems. |
+| 🔥 Heatblast | Graph Algorithms     | Lighting up connections and paths in graphs. |
+| 🤖 Upgrade   | Advanced Techniques  | High-tech strategies like Segment Trees & more. |
 
 ---

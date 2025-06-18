@@ -1,5 +1,5 @@
 <h1 align="center">
-  💚🖤 Ben 10's DAA Codex 🖤💚
+  💚🖤 Design and Analysis of Algorithms 🖤💚
 </h1>
 
 <p align="center">
@@ -7,15 +7,15 @@
 </p>
 
 <p align="center">
-  <b>Transforming Algorithm Problems — The Ben 10 Way!</b><br/>
-  <i>From Grey Matter's logic to XLR8's speed — unlock every technique!</i>
+  <b>Transforming Algorithm Problems </b><br/>
+  <i>unlock every technique!</i>
 </p>
 
 ---
 
 ## 🛸 What's This Repo?
 
-Welcome to **DAA-AlienForce** — a powerful repository of solved problems from **Design and Analysis of Algorithms**, coded with alien-level strategies.
+Welcome to **World of Data Structures** — a powerful repository of solved problems from **Design and Analysis of Algorithms**, coded with alien-level strategies.
 
 Here, algorithms aren't just learned — they're **transformed**, just like Ben with his Omnitrix. Whether it's a greedy approach or dynamic programming, every section here is themed after one of Ben's iconic aliens.
 

@@ -29,6 +29,6 @@ Here, algorithms aren't just learned — they're **transformed**, just like Ben 
 | ⚡ XLR8       | Divide & Conquer     | Fast recursive breaks, faster merges. |
 | 🕸️ Stinkfly  | Dynamic Programming | Efficient, airborne over repeated subproblems. |
 | 💎 Diamondhead | Backtracking         | Shard-sharp solutions for constraint-heavy problems. |
-| 🔥 Heatblast | Graph Algorithms     | Lighting up connections and paths in graphs.  |
+
 
 ---
